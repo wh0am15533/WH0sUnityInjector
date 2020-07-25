@@ -28,6 +28,6 @@ Note: During testing I've noticed that when Doorstop/BepInEx fails, this works. 
 So, if you have that fucking troublesome game give this a try, plus once it's 'Injected' it'll work until you remove it, so you don't have to inject every time you load the game.
 
 #### Latest Releases At:
-(https://www.unknowncheats.me/forum/unity/404552-wh0s-unity-injector.html)
+https://www.unknowncheats.me/forum/unity/404552-wh0s-unity-injector.html
 
 ![preview](https://github.com/wh0am15533/Wh0sUnityInjector/blob/master/Screenshot.png)
